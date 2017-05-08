@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "ttree/fusionstring",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ttree\\FusionString\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Ttree.FusionString"
+        }
+    }
+}

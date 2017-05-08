@@ -1,0 +1,5 @@
+prototype(Ttree.FusionString:Template) {
+    @class = 'Ttree\\FusionString\\TemplateImplementation'
+    source = ''
+    values = Neos.Fusion:RawArray
+}
